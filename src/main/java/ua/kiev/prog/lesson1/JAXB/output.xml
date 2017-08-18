@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <book>
+        <address city="Frstdrg">5</address>
+        <author>Author1</author>
+        <price>14.55</price>
+        <publish_date>2017-08-18T13:19:22.520+03:00</publish_date>
+        <title>Title1</title>
+    </book>
+    <book>
+        <address city="JJGFYf">6</address>
+        <author>Author2</author>
+        <price>66.0</price>
+        <publish_date>2017-08-18T13:19:22.522+03:00</publish_date>
+        <title>Title2</title>
+    </book>
+</catalog>
