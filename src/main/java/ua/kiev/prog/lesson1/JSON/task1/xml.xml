@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trains>
+    <train id="1">
+        <to>Donetsk</to>
+        <from>Kyiv</from>
+        <date>19.12.2013</date>
+        <departure>15:05</departure>
+    </train>
+    <train id="2">
+        <to>Donetsk</to>
+        <from>Lviv</from>
+        <date>19.12.2013</date>
+        <departure>19:05</departure>
+    </train>
+    <train id="5">
+        <to>Podolsk</to>
+        <from>Pryluky</from>
+        <date>19.02.2017</date>
+        <departure>15:18</departure>
+    </train>
+    <train id="5">
+        <to>Podolsk</to>
+        <from>Pryluky</from>
+        <date>19.02.2017</date>
+        <departure>15:18</departure>
+    </train>
+</trains>
